@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><demogroup3facades><testclass>org.demogroup3.facades.suggestion.DefaultSimpleSuggestionFacadeIntegrationTest</testclass><testclass>org.demogroup3.facades.suggestion.impl.DefaultSimpleSuggestionFacadeTest</testclass></demogroup3facades></testclasses>

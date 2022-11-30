@@ -1,0 +1,11 @@
+data/**
+log/**
+roles/**
+temp/**
+bin/platform/**
+bin/modules/**
+*.class
+**/web/addonsrc/*
+**/web/commonwebsrc/*
+**/web/webroot/**/addons/*
+**/web/testclasses/*
